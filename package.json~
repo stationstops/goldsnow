@@ -1,0 +1,27 @@
+{
+  "name": "goldsnow",
+  "version": "0.0.1",
+  "description": "Godlsnow",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stationstops/goldsnow.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "chriss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stationstops/goldsnow/issues"
+  },
+  "homepage": "https://github.com/stationstops/goldsnow",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.4.8"
+  }
+}
